@@ -1,6 +1,6 @@
 # Mi proyecto
 
-Proyecto básico desarrollado con HTML y CSS.
+Proyecto básico desarrollado con HTML (con el poema azul) y CSS.
 
 ## Archivos
 
