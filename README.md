@@ -1,5 +1,5 @@
 # Mi proyecto
-
+**Estudiante**: Sebastián Barrios.
 Proyecto básico desarrollado con HTML (con el poema azul) y CSS.
 
 ## Archivos
