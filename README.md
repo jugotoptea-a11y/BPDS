@@ -1,6 +1,6 @@
 # Mi proyecto
-**Docente**: Kelly Villa.
-Proyecto básico desarrollado con HTML y CSS.
+**Estudiante**: Sebastián Barrios.
+Proyecto básico desarrollado con HTML (con el poema azul) y CSS.
 
 ## Archivos
 
